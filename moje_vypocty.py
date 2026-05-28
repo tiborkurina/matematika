@@ -1,2 +1,2 @@
-def sucin(x->,y->int)->int:
+def sucin(x:int,y:int)->int:
     return x * y
